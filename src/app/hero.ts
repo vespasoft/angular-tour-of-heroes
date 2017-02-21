@@ -1,4 +1,5 @@
 export class Hero {
   id: number;
-  name: string;
+  brand: string;
+  companyId: number;
 }
